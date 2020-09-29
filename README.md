@@ -1,5 +1,4 @@
 # hello-world
-1-st tutorial repository
 
 Hey there!
 I'm a freelance web-developer and designer from Kharkiv, Ukraine.
